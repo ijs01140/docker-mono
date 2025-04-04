@@ -2,6 +2,9 @@
 
 This image provides Docker releases of the [Mono Project](http://www.mono-project.com/).
 
+> [!IMPORTANT]
+> This image is deprecated and won't receive updates anymore, see https://github.com/mono/mono/issues/21796
+
 ## Supported tags and versions
 
 We push every Mono release to Docker Hub. The latest version, one minor version before that and the last version
